@@ -1,6 +1,8 @@
 # ItemsTracker for Vinted [ENG]
 Items Tracker is a bot designed to scalp all new items newly available on Vinted, whether sneakers or anything else, with the possibility to include your personalized searches. The bot works 24/7 and is not limited in its use or number of requests per day. All its use is done through a dedicated command prompt, and gives you the opportunity to sort through hundreds of new items in a few minutes at a glance, and to rush on the one that interests you.
 
+### The bot on Discord https://discord.gg/tkNwRpjHcP 
+
 # Premium Version here :
 
 https://mercuresoftware.gumroad.com/l/botforVinted
